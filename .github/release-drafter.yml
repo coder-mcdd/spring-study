@@ -30,8 +30,3 @@ template: |
 
   $CHANGES
 
-  ## 👥 Contributors
-
-  Thanks to the following contributors for this release:
-
-  $CONTRIBUTORS
