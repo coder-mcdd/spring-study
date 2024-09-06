@@ -17,7 +17,7 @@ disclosure:
 
 1. **Do not open a public issue for security vulnerabilities.**
     - Please send us an email at [mcdd1024@gmail.com](mailto:mcdd1024@gmail.com) to report a potential
-      security issue. Do not disclose the vulnerability publicly.
+      security issue. Do not disclose the vulnerability publicly
 
 2. **Provide sufficient details:**
     - Include a description of the vulnerability, steps to reproduce the issue, the potential impact, and any

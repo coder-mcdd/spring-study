@@ -27,7 +27,7 @@ version-resolver:
       - 'patch'
   default: patch
 template: |
-  ## 🥶 Changes
+  ## Changes
 
   $CHANGES
 
