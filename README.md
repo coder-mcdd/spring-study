@@ -6,7 +6,12 @@ Spring study project by maven
 
 ## 概述 🥶
 
-TODO
+demo01 quickstart  
+
+- auto configuration 
+- DI 
+- read yaml、properties file 
+- spring boot dev tools
 
 ## 功能 ✨
 
