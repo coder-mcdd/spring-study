@@ -10,6 +10,13 @@
     </parent>
 
     <artifactId>demo01-quickstart</artifactId>
+    <description>
+    demo01 quickstart
+        - auto configuration
+        - DI
+        - read yaml、properties file
+        - spring boot dev tools
+    </description>
 
     <dependencies>
         <dependency>
