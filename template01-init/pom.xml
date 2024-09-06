@@ -9,7 +9,7 @@
         <version>1.0.0</version>
     </parent>
 
-    <artifactId>template01-quickstart</artifactId>
+    <artifactId>template01-init</artifactId>
 
     <dependencies>
         <dependency>

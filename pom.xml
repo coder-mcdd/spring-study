@@ -9,7 +9,8 @@
     <name>spring-study</name>
     <description>Spring study project by maven</description>
     <modules>
-        <module>template01-quickstart</module>
+        <module>template01-init</module>
+        <module>demo01-quickstart</module>
     </modules>
 
     <packaging>pom</packaging>
@@ -62,6 +63,18 @@
             <artifactId>lombok</artifactId>
             <version>${lombok.version}</version>
             <optional>true</optional>
+        </dependency>
+        <!-- Spring Boot Configuration Processor-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-configuration-processor</artifactId>
+            <scope>annotationProcessor</scope>
+        </dependency>
+        <!-- Spring Boot Dev Tools-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-devtools</artifactId>
+            <scope>runtime</scope>
         </dependency>
     </dependencies>
 

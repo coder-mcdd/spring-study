@@ -1,5 +1,5 @@
 spring:
   application:
-    name: template-quickstart
+    name: template01-init
   profiles:
     active: dev
